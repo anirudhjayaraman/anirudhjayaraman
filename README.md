@@ -1,12 +1,12 @@
 ### Hi there 👋 My name is Anirudh Jayaraman
 I am currently working at UBS as a risk quant (model validation) using econometrics, statistics and regulatory guidance in validating credit models.
 
-## Learn, earn, eat, sleep, repeat!
-- 🔭 I’m currently working on a lot of things! (TBU)
-- 🌱 I’m currently learning everything 🤣
+## Learn, earn, eat, sleep, repeat! 
+- 🖥 I’m currently working on asset price time series forecasting using LSTMs (RNNs) 
+- 🌱 I’m currently doing a data science nanodegree on Udacity
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to do the dishes while 'reading' an audiobook
+- ⚡ Fun fact: I was kidnapped by a rickshaw puller and cobbler duo as a 2-year old. Got rescued by the Delhi police, even though I think it was God that intervened.
 
 ### Connect with me:
 
