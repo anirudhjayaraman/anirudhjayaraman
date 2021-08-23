@@ -2,8 +2,8 @@
 I am currently working at UBS as a risk quant (model validation) using econometrics, statistics and regulatory guidance in validating credit models.
 
 ## Learn, earn, eat, sleep, repeat! 
-- 🖥 I’m currently working on asset price time series forecasting using LSTMs (RNNs) 
-- 🌱 I’m currently doing a data science nanodegree on Udacity
+- 🖥 I’m currently attempting to understand asset price time series forecasting using LSTMs (RNNs) implemented with PyTorch.
+- 🌱 I’m also getting a data science nanodegree on Udacity
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I was kidnapped by a rickshaw puller and cobbler duo as a 2-year old. Got rescued by the Delhi police, even though I think it was God that intervened.
