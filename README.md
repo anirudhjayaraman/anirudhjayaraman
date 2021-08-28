@@ -5,8 +5,8 @@ I am currently working at UBS as a risk quant (model validation) using econometr
 - 🖥 I’m currently attempting to understand asset price time series forecasting using LSTMs (RNNs) implemented with PyTorch.
 - 🌱 I’m also getting a data science nanodegree on Udacity
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 **2021 Goals:** Build a solid foundations for working in quant finance - including C++, Python, Stochastic Calculus and Machine Learning Algorithms.
-- ⚡ **Fun fact:** I was kidnapped by a rickshaw puller and cobbler duo as a 2-year old. Got rescued by the Delhi police, even though I think it was God that intervened.
+- 🥅 **2021 Goals:** Building a solid foundation for working in quant finance - honing my skills in C++, Python, Stochastic Calculus and Machine Learning Algorithms.
+- ⚡ **Fun fact:** I was kidnapped by a rickshaw puller and a cobbler when I was a 2-year old. Got rescued within 2 hours of the kidnap. I think it was God or life that intervened. I might have ended up as a limbless beggar on the streets of Delhi in an alternate universe.
 
 ### Connect with me:
 
