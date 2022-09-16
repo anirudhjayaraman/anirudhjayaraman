@@ -3,7 +3,6 @@ I am currently working at UBS as a risk quant (model validation) using econometr
 
 ## Learn, earn, eat, sleep, repeat! 
 - 🖥 I’m currently attempting to complete Gilbert Strang's Linear Algebra course on MIT OCW 18.06
-- 🌱 My wife and I are expecting a baby in Nov-Dec
 - 👯 I’m focusing big time on health and wellness
 - 🥅 **2022 Goals:** Honing my coding skills in C++ (simulations and numerical methods).
 - ⚡ **Fun fact:** I was kidnapped by a rickshaw puller and a cobbler when I was a 2-year old. Got rescued within 2 hours of the kidnap. I think it was God or life that intervened. I might have ended up as a limbless beggar on the streets of Delhi in an alternate universe.
