@@ -3,7 +3,7 @@ I work at a bank validating risk models.
 
 ## Learn, earn, eat, sleep, repeat! 
 - 🖥 I’m focusing on using any spare time exclusively on reading.
-- 🥅 **2023 Goals:** CFA Level II and numerical methods using C++
+- 🥅 **2024 Goals:** Data structures, C++ and LeetCode
 - ⚡ **Fun fact:** I was kidnapped by a rickshaw puller and a cobbler when I was a 2-year old. Got rescued within 2 hours of the kidnap. I think it was God or life that intervened. I might have ended up as a limbless beggar on the streets of Delhi in an alternate universe.
 
 ### Connect with me:
