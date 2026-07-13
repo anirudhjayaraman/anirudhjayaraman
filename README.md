@@ -8,7 +8,7 @@ I am an Associate Director at UBS, Mumbai, specializing in Model Risk Management
 - 🤖 **AI Ambassador:** Leading function-wide AI initiatives, including developing RAG agents for automated model validation testing.
 - 🎓 **MSc Financial Engineering:** Pursuing my Masters at WorldQuant University (Nov 2025 – Nov 2027), focusing on updating my priors in quant finance.
 - 📜 **CQF Holder:** Completed with a final grade of **89%**. Final project: *Pricing a k-th to default basket CDS consisting of European banking names*.
-- 💻 **Tech Stack:** Expert in Python and R; building tools with LLMs, RAG, and LangChain. Check out my latest project: [see-through](https://github.com/anirudhjayaraman/see-through).
+- 💻 **Tech Stack:** Expert in Python and R; building tools with LLMs, RAG, and LangChain. Check out my latest project: [Validation Scoping Agent](https://github.com/anirudhjayaraman/valscope).
 - 🎯 **2026 Goals:** Scale AI adoption in risk workflows, excel in my MSc FE coursework, and build high-impact "vibe code" AI applications.
 - ♟️ **Interests:** Chess, reading, and solving real-world problems with technology.
 
