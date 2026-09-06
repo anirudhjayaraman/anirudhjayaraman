@@ -46,8 +46,11 @@ With 10+ years in financial services and strong foundations in econometrics, sta
 
 <div align="center">
 
-![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anirudhjayaraman&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhjayaraman&layout=compact&hide_border=true)
+![Followers](https://img.shields.io/github/followers/anirudhjayaraman?style=for-the-badge&logo=github&label=Followers&color=3670A0)
+![Stars](https://img.shields.io/github/stars/anirudhjayaraman/Machine-Learning?style=for-the-badge&logo=github&label=Stars%20%28top%20repo%29&color=3670A0)
+
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anirudhjayaraman&theme=transparent)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anirudhjayaraman&theme=transparent)
 
 </div>
 
@@ -73,14 +76,11 @@ With 10+ years in financial services and strong foundations in econometrics, sta
 
 ## 📌 Featured Projects
 
-<div align="center">
-
-[![valscope](https://github-readme-stats.vercel.app/api/pin/?username=anirudhjayaraman&repo=valscope&hide_border=true)](https://github.com/anirudhjayaraman/valscope)
-[![pythonandr](https://github-readme-stats.vercel.app/api/pin/?username=anirudhjayaraman&repo=REPO_NAME_2&hide_border=true)](https://github.com/anirudhjayaraman/REPO_NAME_2)
-
-</div>
-
-> **[valscope](https://github.com/anirudhjayaraman/valscope)** — an LLM-powered Validation Scoping Agent that automates scoping for model-validation reviews using RAG and LangChain.
+| Project | What it does | |
+| :--- | :--- | :--- |
+| **[valscope](https://github.com/anirudhjayaraman/valscope)** | LLM-powered Validation Scoping Agent — agentic RAG pipelines over model-documentation PDFs (LangGraph + FAISS) that automate scoping for model-validation reviews. | [![Stars](https://img.shields.io/github/stars/anirudhjayaraman/valscope?style=flat&logo=github&label=%20)](https://github.com/anirudhjayaraman/valscope) |
+| **[see-through](https://github.com/anirudhjayaraman/see-through)** | Chrome extension (Manifest V3) powered by Gemini that analyses LinkedIn posts, X threads and landing pages to separate substance from marketing hype. | [![Stars](https://img.shields.io/github/stars/anirudhjayaraman/see-through?style=flat&logo=github&label=%20)](https://github.com/anirudhjayaraman/see-through) |
+| **[Machine-Learning](https://github.com/anirudhjayaraman/Machine-Learning)** | Long-running catalogue of my machine-learning coursework and implementations — my most-starred repository. | [![Stars](https://img.shields.io/github/stars/anirudhjayaraman/Machine-Learning?style=flat&logo=github&label=%20)](https://github.com/anirudhjayaraman/Machine-Learning) |
 
 ---
 
