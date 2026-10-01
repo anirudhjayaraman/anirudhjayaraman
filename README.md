@@ -11,7 +11,7 @@ I validate credit risk models for Lombard and Securities-Backed Lending, and I l
 ## 🚀 Learn, build, improve, repeat
 
 - 🏦 **At UBS:** Validating credit risk models (PD / LGD / CCAR) for Lombard Lending and Securities-Backed Lending (SBL).
-- 🤖 **AI Ambassador:** Leading function-wide AI initiatives — building RAG agents that automate model-validation testing.
+- 🤖 **AI Stuff:** Spearheading AI initiatives — building RAG agents that automate model-validation testing.
 - 🎓 **MSc Financial Engineering:** WorldQuant University (Nov 2025 – Nov 2027) — sharpening my priors in quant finance.
 - 📜 **CQF (Distinction, 89%):** Final project — *Pricing a k-th-to-default basket CDS on a portfolio of European banking names*.
 - 💻 **Building:** Tooling with Python, LLMs, RAG and LangChain — latest: [Validation Scoping Agent (valscope)](https://github.com/anirudhjayaraman/valscope).
@@ -78,7 +78,6 @@ With 10+ years in financial services and strong foundations in econometrics, sta
 
 | Project | What it does | |
 | :--- | :--- | :--- |
-| **[valscope](https://github.com/anirudhjayaraman/valscope)** | LLM-powered Validation Scoping Agent — agentic RAG pipelines over model-documentation PDFs (LangGraph + FAISS) that automate scoping for model-validation reviews. | [![Stars](https://img.shields.io/github/stars/anirudhjayaraman/valscope?style=flat&logo=github&label=%20)](https://github.com/anirudhjayaraman/valscope) |
 | **[see-through](https://github.com/anirudhjayaraman/see-through)** | Chrome extension (Manifest V3) powered by Gemini that analyses LinkedIn posts, X threads and landing pages to separate substance from marketing hype. | [![Stars](https://img.shields.io/github/stars/anirudhjayaraman/see-through?style=flat&logo=github&label=%20)](https://github.com/anirudhjayaraman/see-through) |
 | **[Machine-Learning](https://github.com/anirudhjayaraman/Machine-Learning)** | Long-running catalogue of my machine-learning coursework and implementations — my most-starred repository. | [![Stars](https://img.shields.io/github/stars/anirudhjayaraman/Machine-Learning?style=flat&logo=github&label=%20)](https://github.com/anirudhjayaraman/Machine-Learning) |
 
