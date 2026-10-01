@@ -2,7 +2,7 @@
 
 **Associate Director, Model Risk Management @ UBS (Mumbai)** — risk quant working at the intersection of **Quantitative Finance, Model Risk, and Applied AI**.
 
-I validate credit risk models for Lombard and Securities-Backed Lending, and I lead AI-automation initiatives in risk management. **CQF** (Distinction, 89%) and **FRM** charterholder, currently reading for an **MSc in Financial Engineering** at WorldQuant University.
+I validate credit risk models for Lombard and Securities-Backed Lending, and I lead AI-automation initiatives in risk management. **CQF** (Distinction, 89%) and **FRM** charterholder, currently reading for my **MSc in Financial Engineering**.
 
 > *I believe in using technology to make work more thoughtful — not just faster.*
 
@@ -11,10 +11,10 @@ I validate credit risk models for Lombard and Securities-Backed Lending, and I l
 ## 🚀 Learn, build, improve, repeat
 
 - 🏦 **At UBS:** Validating credit risk models (PD / LGD / CCAR) for Lombard Lending and Securities-Backed Lending (SBL).
-- 🤖 **AI Stuff:** Spearheading AI initiatives — building RAG agents that automate model-validation testing.
+- 🤖 **AI Stuff:** Spearheading AI initiatives — building solutions for model-validation automation and AI-detection in regulatory documentation.
 - 🎓 **MSc Financial Engineering:** WorldQuant University (Nov 2025 – Nov 2027) — sharpening my priors in quant finance.
 - 📜 **CQF (Distinction, 89%):** Final project — *Pricing a k-th-to-default basket CDS on a portfolio of European banking names*.
-- 💻 **Building:** Tooling with Python, LLMs, RAG and LangChain — latest: [Validation Scoping Agent (valscope)](https://github.com/anirudhjayaraman/valscope).
+- 💻 **Building:** Tooling with Python, LLMs, RAG and LangChain — latest: [MRM AI Detector](https://github.com/anirudhjayaraman/mrm-ai-detector).
 - 🎯 **2026 focus:** Scaling AI adoption across risk workflows, excelling in MSc FE coursework, and shipping high-impact AI applications.
 - ♟️ **Off the clock:** Chess, reading, and solving real-world problems with code.
 
@@ -76,10 +76,11 @@ With 10+ years in financial services and strong foundations in econometrics, sta
 
 ## 📌 Featured Projects
 
-| Project | What it does | |
-| :--- | :--- | :--- |
-| **[see-through](https://github.com/anirudhjayaraman/see-through)** | Chrome extension (Manifest V3) powered by Gemini that analyses LinkedIn posts, X threads and landing pages to separate substance from marketing hype. | [![Stars](https://img.shields.io/github/stars/anirudhjayaraman/see-through?style=flat&logo=github&label=%20)](https://github.com/anirudhjayaraman/see-through) |
-| **[Machine-Learning](https://github.com/anirudhjayaraman/Machine-Learning)** | Long-running catalogue of my machine-learning coursework and implementations — my most-starred repository. | [![Stars](https://img.shields.io/github/stars/anirudhjayaraman/Machine-Learning?style=flat&logo=github&label=%20)](https://github.com/anirudhjayaraman/Machine-Learning) |
+| Project | What it does |
+| :--- | :--- |
+| **[mrm-ai-detector](https://github.com/anirudhjayaraman/mrm-ai-detector)** | Detect AI-generated text in model risk documentation (validation reports, audit findings, MRM policies). Zero-install Python core, optional open-source LLM-detector ensemble, benchmarked on regulatory MRM literature. |
+| **[see-through](https://github.com/anirudhjayaraman/see-through)** | Chrome extension (Manifest V3) powered by Gemini that analyses LinkedIn posts, X threads and landing pages to separate substance from spin. |
+| **[Machine-Learning](https://github.com/anirudhjayaraman/Machine-Learning)** | Long-running catalogue of my machine-learning coursework and implementations — my most-starred repository. |
 
 ---
 
